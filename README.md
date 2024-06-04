@@ -1,2 +1,2 @@
 # ToDo-List
-Made a ToDo-List using ht,l css and JS
+Made a ToDo-List using html css and JS
